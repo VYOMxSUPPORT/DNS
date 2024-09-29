@@ -2,7 +2,7 @@
 
 # Dns Music <img src="https://img.shields.io/github/v/release/TeamDns/DnsXMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Dns Music](https://github.com/TeamDns/DnsXMusicBot) is a powerful Telegram Music + Video Bot written in Python, using Pyrogram and Py-Tgcalls. You can stream songs, videos, and even live streams in your group calls from multiple sources.
+[Dns Music](https://github.com/VYOMxSUPPORT/DNS) is a powerful Telegram Music + Video Bot written in Python, using Pyrogram and Py-Tgcalls. You can stream songs, videos, and even live streams in your group calls from multiple sources.
 
 ### 🎵 Key Features
 - **Supports Multiple Platforms:** YouTube, SoundCloud, Apple Music, Spotify, Resso, Live Streams, Telegram Audios, and Videos.
@@ -24,7 +24,7 @@ Click the button below to easily deploy **Dns Music Bot** on Heroku!
 
 > If you encounter an error during app creation, try forking the repository first.
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/MISH0009/DNS"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/VYOMxSUPPORT/DNS"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
 ## 🖇️ VPS Deployment Guide
